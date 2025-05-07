@@ -1,0 +1,6 @@
+.container {
+  max-width: 132rem;
+  position: relative;
+  margin: auto;
+  justify-content: center;
+}
